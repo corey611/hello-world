@@ -1,6 +1,6 @@
 # hello-world
 =============
-Hello everyone!/n
-Corey here,I like openflow.(That's what I'm made of!)/n
-I'm trying my best!!!!/n
+Hello everyone!
+Corey here,I like openflow.(That's what I'm made of!)
+I'm trying my best!!!!
 Come on!!!!Corey!!!!
